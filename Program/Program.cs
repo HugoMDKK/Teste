@@ -13,12 +13,27 @@ class Program
             Console.WriteLine($"O número {numero} pertence à sequência de Fibonacci.");
         else
             Console.WriteLine($"O número {numero} não pertence à sequência de Fibonacci.");
-    
+
         //Segundo
+        Console.WriteLine();
         Console.WriteLine("Informe uma string para verificar a presença e a quantidade de letras 'A':");
         string input = Console.ReadLine();
 
         VerificarLetraA(input);
+
+
+        //Terceiro 
+        Console.WriteLine();
+        int indice = 12;
+        int soma = 0;
+        int k = 1;
+
+        while (k < indice)
+        {
+            k = k + 1;
+            soma = soma + k;
+        }
+        Console.WriteLine("O valor da variável é " + soma);  
     }
 
 
@@ -58,7 +73,6 @@ class Program
         else
             Console.WriteLine("A letra 'A' não aparece na string.");
     }
-
+   
     
-
 }
