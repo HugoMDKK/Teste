@@ -1,0 +1,15 @@
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\bin\Debug\net8.0\Teste.exe
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\bin\Debug\net8.0\Teste.deps.json
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\bin\Debug\net8.0\Teste.dll
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\bin\Debug\net8.0\Teste.pdb
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\obj\Debug\net8.0\Teste.sourcelink.json
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\obj\Debug\net8.0\Teste.dll
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\obj\Debug\net8.0\refint\Teste.dll
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\obj\Debug\net8.0\Teste.pdb
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+D:\C# Projetos\C# Testes\Teste\Teste\Teste\obj\Debug\net8.0\ref\Teste.dll
